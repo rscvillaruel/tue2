@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tue2
+#
+
+projectname: tue2
+vendorid: com.renz.example
+mainmodule: com.renz.example.tue2
